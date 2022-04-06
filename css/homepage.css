@@ -46,10 +46,12 @@ body{
 footer{
     padding-top: 10px;
     background-color: black;
-    height: 50px;
+    height: 80px;
 }
 #foot{
     color: white;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h2{
     font-size: 30px;
@@ -67,4 +69,14 @@ h2{
 
 h2{
     background-color: rgb(155, 155, 155);
+}
+.end{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+li > a{
+    text-decoration: none;
+    color: white;
 }
