@@ -5,12 +5,16 @@ body{
     text-align: center;
     min-height: 100vh;
     font-family: "Helvetica Neue",Helvetica,Arial;
+    background-image: url("../images/istockphoto-953140058-612x612.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
 }
 .main{
     border: solid 2px #1a73e8;
     padding: 10px;
     border-radius:10px;
     width: 30%;
+    background-color: aliceblue;
 }
 .form > div{
     padding: 10px;
